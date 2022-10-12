@@ -1,4 +1,4 @@
-case_id,patientid,City_Code_Patient,Type of Admission,Severity of Illness,Visitors with Patient,Age,Admission_Deposit,Stay
+case_id,patientid,City_Code_Patient,Type_of_Admission,Severity_of_Illness,Visitors_with_Patient,Age,Admission_Deposit,Stay
 1,31397,7,Emergency,Extreme,2,51-60,4911,0-10
 2,31397,7,Trauma,Extreme,2,51-60,5954,41-50
 3,31397,7,Trauma,Extreme,2,51-60,4745,31-40

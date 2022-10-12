@@ -1,4 +1,4 @@
-case_id,Hospital_code,Hospital_type_code,City_Code_Hospital,Hospital_region_code,Available Extra Rooms in Hospital,Department,Ward_Type,Ward_Facility_Code,Bed Grade
+case_id,Hospital_code,Hospital_type_code,City_Code_Hospital,Hospital_region_code,Available_Extra_Rooms_in_Hospital,Department,Ward_Type,Ward_Facility_Code,Bed_Grade
 1,8,c,3,Z,3,radiotherapy,R,F,2
 2,2,c,5,Z,2,radiotherapy,S,F,2
 3,10,e,1,X,2,anesthesia,S,E,2
